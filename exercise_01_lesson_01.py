@@ -8,4 +8,5 @@ print(f'Привет:', user_name, 'Ваш возраст', user_age)
 
 a, b = int(input('Первое число ')), int(input('Второе число '))
 print(f'Сумма этих чисел =', a + b)
+#
 
